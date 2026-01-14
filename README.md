@@ -6,5 +6,6 @@ Then, I plan in the future to come back to this project and dig deeper.
 
 ## Notes
 I created this repository only to host this file.
+The description of the PAGI project is still work in progress (the ``pass'' in the text are placeholders).
 The corresponding code base is in a private repo.
 To save time, I did not include any references nor preliminary results.
